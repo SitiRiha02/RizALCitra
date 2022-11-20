@@ -1,0 +1,30 @@
+ Name : AISYAH
+ Phone Number : 01123451234
+ Product Name : CONCELEAR
+ Price : RM54.60
+ Quantity : 1
+ 
+ Name : FARIHAH
+ Phone Number : 01157540131
+ Product Name : FOUNDATION
+ Price : RM59.00
+ Quantity : 2
+ 
+ Name : MALIHA
+ Phone Number : 01223452323
+ Product Name : HIGHLIGHTER
+ Price : RM45.50
+ Quantity : 1
+ 
+ Name : SYUHADA
+ Phone Number : 01134567676
+ Product Name : LIP GLOSS
+ Price : RM45.50
+ Quantity : 3
+ 
+ Name : SITI
+ Phone Number : 01823452323
+ Product Name : BROW
+ Price : RM40.00
+ Quantity : 1
+ 
